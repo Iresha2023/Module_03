@@ -1,0 +1,11 @@
+PHP is a popular server-side scripting language used for web development. It stands for "Hypertext Preprocessor." PHP is used to create dynamic web pages and applications, meaning that the content of a page can change in response to user input or other factors. PHP is often used in combination with HTML, CSS, and JavaScript to create complete web applications.
+
+PHP code is executed on the server before the resulting HTML is sent to the user's web browser. This allows developers to perform tasks such as accessing a database, processing form data, or generating dynamic content on the fly. PHP is free and open-source, and has a large community of developers who create libraries, frameworks, and tools to make development faster and easier. 
+
+ Some dynamic web applications and websites that use PHP, includes:
+
+Content management systems (CMS) - such as WordPress, Joomla, and Drupal.
+E-commerce platforms - such as Magento, Shopify, and WooCommerce.
+Social networking sites - such as Facebook, Twitter, and LinkedIn.
+Online forums and communities - such as phpBB and vBulletin.
+Web-based applications - such as project management tools, customer relationship management (CRM) systems, and online chat systems.
